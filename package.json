@@ -1,0 +1,14 @@
+{
+  "name": "richpresenceteal",
+  "version": "1.0.0",
+  "description": "Spoofs a rich presence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xTeal",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.2.0"
+  }
+}
